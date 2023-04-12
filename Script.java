@@ -1,7 +1,6 @@
 public class Script {
     private String script;
-
-    public Script(String script){
+    Script(String script){
         this.script = script;
     }
 
